@@ -43,7 +43,7 @@ Tools:      Git, Excel, Power BI, Figma, VS Code, IntelliJ, Jupyter Notebook
 ---
 
 📊 GitHub Analytics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=HariNarayananJ04&theme=tokyonight" width="48%" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HariNarayananJ04&layout=compact&theme=tokyonight" width="48%" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=HariNarayananJ04&show_icons=true&theme=tokyonight" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=HariNarayananJ04&theme=tokyonight" width="48%" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HariNarayananJ04&layout=compact&theme=tokyonight" width="48%" /> </p>
 
 ---
 
