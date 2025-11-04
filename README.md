@@ -1,8 +1,4 @@
-<!-- 💥 Jarvis Console Style GitHub README for Hari Narayanan J -->
 
-<p align="center">
-  <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/iron-man-jarvis.gif" width="800" alt="Jarvis Interface Animation"/>
-</p>
 
 <h1 align="center">🧠 Hey there, I'm <span style="color:#00FFFF;">Hari Narayanan J</span></h1>
 
