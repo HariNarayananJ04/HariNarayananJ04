@@ -17,7 +17,7 @@
 ---
 
 ### 💻 Tech Stack  
-```text
+
 Languages:  Java, Python, JavaScript, SQL  
 Interests:  Java Full Stack, Web Designing, Data Analytics  
 Tools:      Git, Excel, Power BI, Figma, VS Code, IntelliJ, Jupyter Notebook 
