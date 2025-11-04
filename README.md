@@ -24,7 +24,7 @@ Tools:      Git, Excel, Power BI, Figma, VS Code, IntelliJ, Jupyter Notebook
 
 ---
 
-###🚀 Featured Projects
+🚀 Featured Projects
 
 🏥 Hospital Management System — Java-based app for managing doctors & patients efficiently
 
@@ -43,7 +43,7 @@ Tools:      Git, Excel, Power BI, Figma, VS Code, IntelliJ, Jupyter Notebook
 ---
 
 📊 GitHub Analytics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" width="48%" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" width="48%" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=HariNarayananJ04&theme=tokyonight" width="48%" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HariNarayananJ04&layout=compact&theme=tokyonight" width="48%" /> </p>
 
 ---
 
@@ -57,4 +57,4 @@ Tools:      Git, Excel, Power BI, Figma, VS Code, IntelliJ, Jupyter Notebook
 If life throws exceptions — I just handle them gracefully 😉
 
 <p align="center"> <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="400" alt="Coding Animation"/> </p>
-<h3 align="center">🛰️ End of Transmission — Jarvis Mode: Active 🧠</h3> ```
+<h3 align="center">🛰️ End of Transmission </h3> ```
